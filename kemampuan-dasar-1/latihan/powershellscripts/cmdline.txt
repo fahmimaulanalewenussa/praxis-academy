@@ -1,1 +1,2 @@
-
+1. Langkah Pertama Membuat folder di komputer
+2. membuat file dalam folder tersebut contoh "ps1"

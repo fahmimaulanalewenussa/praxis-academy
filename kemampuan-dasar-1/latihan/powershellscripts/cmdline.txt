@@ -1,2 +1,22 @@
-1. Langkah Pertama Membuat folder di komputer
-2. membuat file dalam folder tersebut contoh "ps1"
+20 command line
+
+1. Dir
+2. DIR (Nama Folder)
+3. DATE
+4. DEFRAG
+5. DXDIAG
+6. REGEDIT
+7. CLS
+8. CHKDSK
+9. COPY
+10. MOVE
+11. CHKDSK
+12. CHKNTFS
+13. CHOICE
+14. CMD
+15. COMP
+16. HELP
+17. IPCONFIG
+18. NBTSTAT
+19. RECOVER
+20. REGEDIT
